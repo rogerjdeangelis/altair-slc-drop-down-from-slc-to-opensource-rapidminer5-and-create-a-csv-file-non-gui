@@ -1,11 +1,12 @@
 # altair-slc-drop-down-from-slc-to-opensource-rapidminer5-and-create-a-csv-file-non-gui
-altair slc drop down from slc to opensource rapidminer5 and create a csv file non gui
-    %let pgm=altair-slc-drop-down-from-slc-to-opensource-rapidminer5-and-create-a-csv-file-non-gui;
+Altair SLC drop-down from slc to Open Source RapidMiner5 and create a csv file non gui
+     
+    Altair SLC drop-down from slc to opensource rapidminer5 and create a csv file non gui
 
-    %stop_submission;
-    altair slc drop down from slc to opensource rapidminer5 and create a csv file non gui
-
-    The rapidmier xml program creates a dataset and converts it to a csv in c:/temp/generated_data.csv
+    Too long to post, see
+    https://github.com/rogerjdeangelis/altair-slc-drop-down-from-slc-to-opensource-rapidminer5-and-create-a-csv-file-non-gui
+    
+    The RapidMiner XML program creates a dataset and converts it to a csv in c:/temp/generated_data.csv
 
     You can download rapidminer 5 from
     https://sourceforge.net/directory/windows/?q=rapidminer
